@@ -2,7 +2,7 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "env": {
-    "MONGODB_URI": "@mongodb_uri"
+    "MONGODB_URI": "mongodb://imastercharlie786:Mehraj4781@portfolio-shard-00-00.68g7x.mongodb.net:27017,portfolio-shard-00-01.68g7x.mongodb.net:27017,portfolio-shard-00-02.68g7x.mongodb.net:27017/?ssl=true&replicaSet=atlas-spg1tt-shard-0&authSource=admin&retryWrites=true&w=majority"
   },
   "rewrites": [
     {
