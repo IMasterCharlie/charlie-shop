@@ -1,0 +1,7 @@
+{
+  "name": "CHARLIE'S SHOP",
+  "description": "A premium, modern e-commerce destination for fashion, electronics, and more.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
